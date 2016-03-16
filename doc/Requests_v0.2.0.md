@@ -9,8 +9,7 @@
 上图。
 
 
-
-
+<img src="img/author.png" width = "300" height = "300" alt="图片名称" align=center />
 
 
 
