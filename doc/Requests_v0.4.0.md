@@ -445,7 +445,7 @@ class _HTTPBasicAuthHandler(urllib2.HTTPBasicAuthHandler):
 
 我百度了下 mercurial 的意思，是 幽鬼(dota)
 
-#### 2. 内部代码重新分开刀不同文件
+#### 2. 内部代码重新分开成不同文件
 
 之前的形式如下
 
