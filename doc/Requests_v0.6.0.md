@@ -525,5 +525,8 @@ Out[5]: [<Response [302]>, <Response [302]>, <Response [302]>]
 
 
 
+如果有问题，欢迎各种形式 的issue 和 pr
+
+[github v0.6.0](https://github.com/wangshunping/read_requests/blob/master/doc/Requests_v0.6.0.md)
 
 
