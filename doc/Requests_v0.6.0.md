@@ -388,7 +388,9 @@ class Session(object):
 ```
 
 第一个注释： 设置 cookies
+
 第二个注释： 设置 所有 headers, cookies 等内容
+
 第三个注释： 从requests.api中加载所有的 method (get,post等内容)，并给他们加上了装饰器
 
 接着看下第三个注释的调用函数的代码
