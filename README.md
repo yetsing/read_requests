@@ -14,9 +14,9 @@
 
 [Requests v0.4.0  Amazing tour ](./doc/Requests_v0.4.0.md)	2016-03-17 
 
-[Requests v0.5.0 ](./doc/Requests_v0.5.0.md)	2016-03-18
+[Requests v0.5.0 Context Manager ](./doc/Requests_v0.5.0.md)	2016-03-18
 
-[Reuqests v0.6.0](./doc/Requests_v0.6.0.md)
+[Reuqests v0.6.0 Captain Hook! ](./doc/Requests_v0.6.0.md)  2016-03-19
 
 ### 目的
 
