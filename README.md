@@ -18,6 +18,10 @@
 
 [Reuqests v0.6.0 Captain Hook! ](./doc/Requests_v0.6.0.md)  2016-03-19
 
+[Reuqests v0.7.0 ](./doc/Requests_v0.7.0.md)  2016-03-20
+
+[Reuqests v0.8.0 ](./doc/Requests_v0.8.0.md)  2016-03-19
+
 ### 目的
 
 我的python 学习遇到了瓶颈。
