@@ -547,24 +547,26 @@ def request(method, url,
 改成了这种形式的默认配置文件。
 
 ```
-"""
-requests.defaults
-~~~~~~~~~~~~~~~~~
 
-This module provides the Requests configuration defaults.
-"""
+    """
+    requests.defaults
+    ~~~~~~~~~~~~~~~~~
 
-from . import __version__
+    This module provides the Requests configuration defaults.
+    """
 
-defaults = dict()
+    from . import __version__
+
+    defaults = dict()
 
 
-defaults['base_headers'] = {
-    'User-Agent': 'python-requests/%s' % __version__,
-    'Accept-Encoding': ', '.join([ 'identity', 'deflate', 'compress', 'gzip' ]),
-}
+    defaults['base_headers'] = {
+        'User-Agent': 'python-requests/%s' % __version__,
+        'Accept-Encoding': ', '.join([ 'identity', 'deflate', 'compress', 'gzip' ]),
+    }
 
 ....
+
 ```
 
 ### 0X04 后记
