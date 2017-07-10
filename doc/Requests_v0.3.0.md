@@ -190,7 +190,7 @@ ok
 
 可以看到，现在post过去，返回的状态码是200，而不是201(Created)了。
 
-StringIO 是一个可以把 Stirng 强制转换成 类似于 FILE 类的东西。标准库里面这么描述。
+StringIO 是一个可以把 String 强制转换成 类似于 FILE 类的东西。标准库里面这么描述。
 
 ```
 	StringIO — Read and write strings as files
