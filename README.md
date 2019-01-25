@@ -7,7 +7,6 @@
 
 ## 拆轮子的目录
 
-
 [Requests v0.2.0  Birth!](./doc/Requests_v0.2.0.md)  2016-03-14
 
 [Requests v0.3.0  Be frinendly](./doc/Requests_v0.3.0.md) 2016-03-16
@@ -20,7 +19,7 @@
 
 [Reuqests v0.7.0 awesome gevent](./doc/Requests_v0.7.0.md)  2016-03-22
 
-[Reuqests v0.8.0 ](./doc/Requests_v0.8.0.md)  2016-03-??
+[Reuqests v0.8.0 urllib3 ](./doc/Requests_v0.8.0.md)  2019-01-25
 
 ### 目的
 
